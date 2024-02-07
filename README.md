@@ -22,7 +22,7 @@
 
 <h3 align="left">My projects 🛠️ :</h3>
 
-- 🌐🖨️ Imagineer 3D Printer https://github.com/maduwanthasl/Imagineer-3D-Printer
+- 🌐🖨️ Imagineer 3D Printer https://github.com/Imagineer-3D-Printer
 
 - 🔄🤝 Refreshmate https://github.com/maduwanthasl/RefreshMate
 
