@@ -1,6 +1,10 @@
 <img align="center" alt="ENTC" width="100%" src="https://www.entcengg.com/wp-content/uploads/2020/08/ENTC-1.png">
 
 <h1 align="center">Hi 👋, I'm Hirusha Maduwantha</h1>
+
+![](https://komarev.com/ghpvc/?username=maduwanthasl&color=green&align=center)
+
+
 <h3 align="center">I'm an ambitious undergraduate at the University of Moratuwa, majoring in Electronic and Telecommunication Engineering. 🎓💡 I've also cultivated my creative skills in UI/UX design, merging technology with aesthetics.</h3>
 
 
