@@ -1,6 +1,6 @@
 <img align="center" alt="ENTC" width="100%" src="https://www.entcengg.com/wp-content/uploads/2020/08/ENTC-1.png">
 
-<h1 align="center">Hi 👋, I'm Hirusha Maduwantha</h1>
+<h1 align="center">Hi <img src="https://github.com/maduwanthasl/maduwanthasl/assets/107339150/bb13989a-b3c5-49f8-a1d2-cda4307b4fe6" width="30px">, I'm Hirusha Maduwantha</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maduwanthasl&color=green" alt="Profile Views Counter">
