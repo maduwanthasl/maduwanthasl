@@ -31,6 +31,8 @@
 - 🌐🖨️ Imagineer 3D Printer https://github.com/Imagineer-3D-Printer
 
 - 🔄🤝 Refreshmate https://github.com/maduwanthasl/RefreshMate
+- 📡🔧 UART Implementation on FPGA https://github.com/maduwanthasl/UART-implementation-on-FPGA
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
